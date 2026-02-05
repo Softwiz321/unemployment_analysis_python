@@ -1,4 +1,5 @@
 # Unemployment Analysis in India using Python
+End-to-end data analysis project exploring unemployment trends in India using Python, visualization, and basic forecasting models.
 
 ## Overview
 This project analyzes unemployment trends in India using real-world datasets. The notebook performs **data cleaning, exploratory data analysis (EDA), region-wise and area-wise comparisons, COVID-19 impact analysis, and basic machine learning–based forecasting**.
