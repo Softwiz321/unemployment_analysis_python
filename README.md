@@ -109,4 +109,4 @@ Both datasets are loaded in CSV format and processed using Pandas.
 - Labour participation rates vary significantly by area
 - Simple regression models can capture short-term unemployment trends
 
-https://github.com/user-attachments/assets/b5e19e4e-254e-45ec-9547-1e00354117ac
+
